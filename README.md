@@ -16,7 +16,7 @@ Launchpad for cybersecurity careers (security analyst, SOC analyst, systems admi
 Covers the essential cybersecurity domains needed to secure networks, applications, and data
 Hands-on, performance-based testing ensures real-world readiness
 
-_**Course Domains (SY0-701)**__
+_**Course Domains (SY0-701)**_
 
 General Security Concepts (12%)
 Threats, Vulnerabilities, and Mitigations (22%)
