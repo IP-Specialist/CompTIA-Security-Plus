@@ -1,4 +1,4 @@
-#CompTIA Security+ (SY0-701) – Free Study Materials & Labs#
+# CompTIA Security+ (SY0-701) – Free Study Materials & Labs #
 
 **Welcome to the CompTIA Security+ (SY0-701) Free Resources & Labs Repository**
 This repository is designed to help learners prepare for the CompTIA Security+ certification exam with a structured set of study notes, practice questions, mind maps, and hands-on labs.
